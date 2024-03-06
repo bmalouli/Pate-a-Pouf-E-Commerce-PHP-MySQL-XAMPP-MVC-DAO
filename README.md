@@ -42,21 +42,23 @@ Here are some glimpses into the Pate-a-Pouf application:
 
 ### Database Overview
 Here is what the database looks like through phpMyAdmin, showcasing the structure and stored data:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![image](https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/b82b2fe4-8d55-4330-a08d-01479b9c9a20)
+![image-1](https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/66831729-7e35-4aa6-b193-a1e296e47859)
+![image-2](https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/8fe46330-cf01-4dcc-9023-81c83b681dcb)
 
 ### Member Registration
 This is the member registration form that new users will use to sign up for Pate-a-Pouf:
-![alt text](image-5.png)
+![image-5](https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/e9795884-15d7-48e6-aab0-18d2b2b2c1f2)
 
 ### Product Management by Admin
 Administrators can manage products through this interface, with functionalities to add, edit, and delete items:
-![alt text](image-3.png)
+![image-3](https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/8ae227c1-deaa-451b-8b38-e993ab9aa235)
 
 ### Member Management by Admin
 This is the admin interface for managing member details and privileges:
-![alt text](image-4.png)
+![image-4](https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/8b4864f3-ec13-4c5a-80e2-b2e3a6c2a368)
 
 ## Demonstration Video
-<video controls src="Pâte-à-Pouf - Google Chrome 2023-11-19 22-47-17.mp4" title="Title"></video>
+https://github.com/bmalouli/Pate-a-Pouf-E-Commerce-PHP-MySQL-XAMPP-MVC-DAO/assets/116194037/e14c2d0c-d291-46e4-b909-de564e3ee84e
+
+
